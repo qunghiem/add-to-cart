@@ -1,0 +1,682 @@
+{
+  "products": [
+     {
+    "id": 37,
+    "title": "Jacket ",
+    "slug": "jacket",
+    "price": 10,
+    "description": "Jacket from US",
+    "category": {
+      "id": 4,
+      "name": "Shoes",
+      "slug": "shoes",
+      "image": "https://i.imgur.com/qNOjJje.jpeg",
+      "creationAt": "2025-07-23T16:24:36.000Z",
+      "updatedAt": "2025-07-23T16:24:36.000Z"
+    },
+    "images": [
+      "https://api.escuelajs.co/api/v1/files/5f83.jpg"
+    ],
+    "creationAt": "2025-07-23T16:24:36.000Z",
+    "updatedAt": "2025-07-24T07:35:54.000Z"
+  },
+  {
+    "id": 38,
+    "title": "Vibrant Runners: Bold Orange & Blue Sneakers",
+    "slug": "vibrant-runners-bold-orange-blue-sneakers",
+    "price": 27,
+    "description": "Step into style with these eye-catching sneakers featuring a striking combination of orange and blue hues. Designed for both comfort and fashion, these shoes come with flexible soles and cushioned insoles, perfect for active individuals who don't compromise on style. The reflective silver accents add a touch of modernity, making them a standout accessory for your workout or casual wear.",
+    "category": {
+      "id": 4,
+      "name": "Shoes",
+      "slug": "shoes",
+      "image": "https://i.imgur.com/qNOjJje.jpeg",
+      "creationAt": "2025-07-23T16:24:36.000Z",
+      "updatedAt": "2025-07-23T16:24:36.000Z"
+    },
+    "images": [
+      "https://i.imgur.com/hKcMNJs.jpeg",
+      "https://i.imgur.com/NYToymX.jpeg",
+      "https://i.imgur.com/HiiapCt.jpeg"
+    ],
+    "creationAt": "2025-07-23T16:24:36.000Z",
+    "updatedAt": "2025-07-23T16:24:36.000Z"
+  },
+  {
+    "id": 39,
+    "title": "Vibrant Pink Classic Sneakers",
+    "slug": "vibrant-pink-classic-sneakers",
+    "price": 84,
+    "description": "Step into style with our Vibrant Pink Classic Sneakers! These eye-catching shoes feature a bold pink hue with iconic white detailing, offering a sleek, timeless design. Constructed with durable materials and a comfortable fit, they are perfect for those seeking a pop of color in their everyday footwear. Grab a pair today and add some vibrancy to your step!",
+    "category": {
+      "id": 4,
+      "name": "Shoes",
+      "slug": "shoes",
+      "image": "https://i.imgur.com/qNOjJje.jpeg",
+      "creationAt": "2025-07-23T16:24:36.000Z",
+      "updatedAt": "2025-07-23T16:24:36.000Z"
+    },
+    "images": [
+      "https://i.imgur.com/mcW42Gi.jpeg",
+      "https://i.imgur.com/mhn7qsF.jpeg",
+      "https://i.imgur.com/F8vhnFJ.jpeg"
+    ],
+    "creationAt": "2025-07-23T16:24:36.000Z",
+    "updatedAt": "2025-07-23T16:24:36.000Z"
+  },
+  {
+    "id": 40,
+    "title": "Futuristic Silver and Gold High-Top Sneaker",
+    "slug": "futuristic-silver-and-gold-high-top-sneaker",
+    "price": 68,
+    "description": "Step into the future with this eye-catching high-top sneaker, designed for those who dare to stand out. The sneaker features a sleek silver body with striking gold accents, offering a modern twist on classic footwear. Its high-top design provides support and style, making it the perfect addition to any avant-garde fashion collection. Grab a pair today and elevate your shoe game!",
+    "category": {
+      "id": 4,
+      "name": "Shoes",
+      "slug": "shoes",
+      "image": "https://i.imgur.com/qNOjJje.jpeg",
+      "creationAt": "2025-07-23T16:24:36.000Z",
+      "updatedAt": "2025-07-23T16:24:36.000Z"
+    },
+    "images": [
+      "https://i.imgur.com/npLfCGq.jpeg",
+      "https://i.imgur.com/vYim3gj.jpeg",
+      "https://i.imgur.com/HxuHwBO.jpeg"
+    ],
+    "creationAt": "2025-07-23T16:24:36.000Z",
+    "updatedAt": "2025-07-23T16:24:36.000Z"
+  },
+  {
+    "id": 41,
+    "title": "Futuristic Chic High-Heel Boots",
+    "slug": "futuristic-chic-high-heel-boots",
+    "price": 36,
+    "description": "Elevate your style with our cutting-edge high-heel boots that blend bold design with avant-garde aesthetics. These boots feature a unique color-block heel, a sleek silhouette, and a versatile light grey finish that pairs easily with any cutting-edge outfit. Crafted for the fashion-forward individual, these boots are sure to make a statement.",
+    "category": {
+      "id": 4,
+      "name": "Shoes",
+      "slug": "shoes",
+      "image": "https://i.imgur.com/qNOjJje.jpeg",
+      "creationAt": "2025-07-23T16:24:36.000Z",
+      "updatedAt": "2025-07-23T16:24:36.000Z"
+    },
+    "images": [
+      "https://i.imgur.com/HqYqLnW.jpeg",
+      "https://i.imgur.com/RlDGnZw.jpeg",
+      "https://i.imgur.com/qa0O6fg.jpeg"
+    ],
+    "creationAt": "2025-07-23T16:24:36.000Z",
+    "updatedAt": "2025-07-23T16:24:36.000Z"
+  },
+  {
+    "id": 42,
+    "title": "Elegant Patent Leather Peep-Toe Pumps with Gold-Tone Heel",
+    "slug": "elegant-patent-leather-peep-toe-pumps",
+    "price": 53,
+    "description": "Step into sophistication with these chic peep-toe pumps, showcasing a lustrous patent leather finish and an eye-catching gold-tone block heel. The ornate buckle detail adds a touch of glamour, perfect for elevating your evening attire or complementing a polished daytime look.",
+    "category": {
+      "id": 4,
+      "name": "Shoes",
+      "slug": "shoes",
+      "image": "https://i.imgur.com/qNOjJje.jpeg",
+      "creationAt": "2025-07-23T16:24:36.000Z",
+      "updatedAt": "2025-07-23T16:24:36.000Z"
+    },
+    "images": [
+      "https://i.imgur.com/AzAY4Ed.jpeg",
+      "https://i.imgur.com/umfnS9P.jpeg",
+      "https://i.imgur.com/uFyuvLg.jpeg"
+    ],
+    "creationAt": "2025-07-23T16:24:36.000Z",
+    "updatedAt": "2025-07-23T16:24:36.000Z"
+  },
+  {
+    "id": 43,
+    "title": "Elegant Purple Leather Loafers",
+    "slug": "elegant-purple-leather-loafers",
+    "price": 17,
+    "description": "Step into sophistication with our Elegant Purple Leather Loafers, perfect for making a bold statement. Crafted from high-quality leather with a vibrant purple finish, these shoes feature a classic loafer silhouette that's been updated with a contemporary twist. The comfortable slip-on design and durable soles ensure both style and functionality for the modern man.",
+    "category": {
+      "id": 4,
+      "name": "Shoes",
+      "slug": "shoes",
+      "image": "https://i.imgur.com/qNOjJje.jpeg",
+      "creationAt": "2025-07-23T16:24:36.000Z",
+      "updatedAt": "2025-07-23T16:24:36.000Z"
+    },
+    "images": [
+      "https://i.imgur.com/Au8J9sX.jpeg",
+      "https://i.imgur.com/gdr8BW2.jpeg",
+      "https://i.imgur.com/KDCZxnJ.jpeg"
+    ],
+    "creationAt": "2025-07-23T16:24:36.000Z",
+    "updatedAt": "2025-07-23T16:24:36.000Z"
+  },
+  {
+    "id": 44,
+    "title": "Classic Blue Suede Casual Shoes",
+    "slug": "classic-blue-suede-casual-shoes",
+    "price": 39,
+    "description": "Step into comfort with our Classic Blue Suede Casual Shoes, perfect for everyday wear. These shoes feature a stylish blue suede upper, durable rubber soles for superior traction, and classic lace-up fronts for a snug fit. The sleek design pairs well with both jeans and chinos, making them a versatile addition to any wardrobe.",
+    "category": {
+      "id": 4,
+      "name": "Shoes",
+      "slug": "shoes",
+      "image": "https://i.imgur.com/qNOjJje.jpeg",
+      "creationAt": "2025-07-23T16:24:36.000Z",
+      "updatedAt": "2025-07-23T16:24:36.000Z"
+    },
+    "images": [
+      "https://i.imgur.com/sC0ztOB.jpeg",
+      "https://i.imgur.com/Jf9DL9R.jpeg",
+      "https://i.imgur.com/R1IN95T.jpeg"
+    ],
+    "creationAt": "2025-07-23T16:24:36.000Z",
+    "updatedAt": "2025-07-23T16:24:36.000Z"
+  },
+  {
+    "id": 45,
+    "title": "Sleek Futuristic Electric Bicycle",
+    "slug": "sleek-futuristic-electric-bicycle",
+    "price": 22,
+    "description": "This modern electric bicycle combines style and efficiency with its unique design and top-notch performance features. Equipped with a durable frame, enhanced battery life, and integrated tech capabilities, it's perfect for the eco-conscious commuter looking to navigate the city with ease.",
+    "category": {
+      "id": 5,
+      "name": "Miscellaneous",
+      "slug": "miscellaneous",
+      "image": "https://i.imgur.com/BG8J0Fj.jpg",
+      "creationAt": "2025-07-23T16:24:36.000Z",
+      "updatedAt": "2025-07-23T16:24:36.000Z"
+    },
+    "images": [
+      "https://i.imgur.com/BG8J0Fj.jpg",
+      "https://i.imgur.com/ujHBpCX.jpg",
+      "https://i.imgur.com/WHeVL9H.jpg"
+    ],
+    "creationAt": "2025-07-23T16:24:36.000Z",
+    "updatedAt": "2025-07-23T16:24:36.000Z"
+  },
+  {
+    "id": 46,
+    "title": "Sleek All-Terrain Go-Kart",
+    "slug": "sleek-all-terrain-go-kart",
+    "price": 37,
+    "description": "Experience the thrill of outdoor adventures with our Sleek All-Terrain Go-Kart, featuring a durable frame, comfortable racing seat, and robust, large-tread tires perfect for handling a variety of terrains. Designed for fun-seekers of all ages, this go-kart is an ideal choice for backyard racing or exploring local trails.",
+    "category": {
+      "id": 5,
+      "name": "Miscellaneous",
+      "slug": "miscellaneous",
+      "image": "https://i.imgur.com/BG8J0Fj.jpg",
+      "creationAt": "2025-07-23T16:24:36.000Z",
+      "updatedAt": "2025-07-23T16:24:36.000Z"
+    },
+    "images": [
+      "https://i.imgur.com/Ex5x3IU.jpg",
+      "https://i.imgur.com/z7wAQwe.jpg",
+      "https://i.imgur.com/kc0Dj9S.jpg"
+    ],
+    "creationAt": "2025-07-23T16:24:36.000Z",
+    "updatedAt": "2025-07-23T16:24:36.000Z"
+  },
+  {
+    "id": 47,
+    "title": "Radiant Citrus Eau de Parfum",
+    "slug": "radiant-citrus-eau-de-parfum",
+    "price": 73,
+    "description": "Indulge in the essence of summer with this vibrant citrus-scented Eau de Parfum. Encased in a sleek glass bottle with a bold orange cap, this fragrance embodies freshness and elegance. Perfect for daily wear, it's an olfactory delight that leaves a lasting, zesty impression.",
+    "category": {
+      "id": 5,
+      "name": "Miscellaneous",
+      "slug": "miscellaneous",
+      "image": "https://i.imgur.com/BG8J0Fj.jpg",
+      "creationAt": "2025-07-23T16:24:36.000Z",
+      "updatedAt": "2025-07-23T16:24:36.000Z"
+    },
+    "images": [
+      "https://i.imgur.com/xPDwUb3.jpg",
+      "https://i.imgur.com/3rfp691.jpg",
+      "https://i.imgur.com/kG05a29.jpg"
+    ],
+    "creationAt": "2025-07-23T16:24:36.000Z",
+    "updatedAt": "2025-07-23T16:24:36.000Z"
+  },
+  {
+    "id": 48,
+    "title": "Sleek Olive Green Hardshell Carry-On Luggage",
+    "slug": "sleek-olive-green-hardshell-carry-on-luggage",
+    "price": 48,
+    "description": "Travel in style with our durable hardshell carry-on, perfect for weekend getaways and business trips. This sleek olive green suitcase features smooth gliding wheels for easy airport navigation, a sturdy telescopic handle, and a secure zippered compartment to keep your belongings safe. Its compact size meets most airline overhead bin requirements, ensuring a hassle-free flying experience.",
+    "category": {
+      "id": 5,
+      "name": "Miscellaneous",
+      "slug": "miscellaneous",
+      "image": "https://i.imgur.com/BG8J0Fj.jpg",
+      "creationAt": "2025-07-23T16:24:36.000Z",
+      "updatedAt": "2025-07-23T16:24:36.000Z"
+    },
+    "images": [
+      "https://i.imgur.com/jVfoZnP.jpg",
+      "https://i.imgur.com/Tnl15XK.jpg",
+      "https://i.imgur.com/7OqTPO6.jpg"
+    ],
+    "creationAt": "2025-07-23T16:24:36.000Z",
+    "updatedAt": "2025-07-23T16:24:36.000Z"
+  },
+  {
+    "id": 49,
+    "title": "Chic Transparent Fashion Handbag",
+    "slug": "chic-transparent-fashion-handbag",
+    "price": 61,
+    "description": "Elevate your style with our Chic Transparent Fashion Handbag, perfect for showcasing your essentials with a clear, modern edge. This trendy accessory features durable acrylic construction, luxe gold-tone hardware, and an elegant chain strap. Its compact size ensures you can carry your day-to-day items with ease and sophistication.",
+    "category": {
+      "id": 5,
+      "name": "Miscellaneous",
+      "slug": "miscellaneous",
+      "image": "https://i.imgur.com/BG8J0Fj.jpg",
+      "creationAt": "2025-07-23T16:24:36.000Z",
+      "updatedAt": "2025-07-23T16:24:36.000Z"
+    },
+    "images": [
+      "https://i.imgur.com/Lqaqz59.jpg",
+      "https://i.imgur.com/uSqWK0m.jpg",
+      "https://i.imgur.com/atWACf1.jpg"
+    ],
+    "creationAt": "2025-07-23T16:24:36.000Z",
+    "updatedAt": "2025-07-23T16:24:36.000Z"
+  },
+  {
+    "id": 50,
+    "title": "Trendy Pink-Tinted Sunglasses",
+    "slug": "trendy-pink-tinted-sunglasses",
+    "price": 38,
+    "description": "Step up your style game with these fashionable black-framed, pink-tinted sunglasses. Perfect for making a statement while protecting your eyes from the glare. Their bold color and contemporary design make these shades a must-have accessory for any trendsetter looking to add a pop of color to their ensemble.",
+    "category": {
+      "id": 5,
+      "name": "Miscellaneous",
+      "slug": "miscellaneous",
+      "image": "https://i.imgur.com/BG8J0Fj.jpg",
+      "creationAt": "2025-07-23T16:24:36.000Z",
+      "updatedAt": "2025-07-23T16:24:36.000Z"
+    },
+    "images": [
+      "https://i.imgur.com/0qQBkxX.jpg",
+      "https://i.imgur.com/I5g1DoE.jpg",
+      "https://i.imgur.com/myfFQBW.jpg"
+    ],
+    "creationAt": "2025-07-23T16:24:36.000Z",
+    "updatedAt": "2025-07-23T16:24:36.000Z"
+  },
+  {
+    "id": 51,
+    "title": "Elegant Glass Tumbler Set",
+    "slug": "elegant-glass-tumbler-set",
+    "price": 50,
+    "description": "Enhance your drinkware collection with our sophisticated set of glass tumblers, perfect for serving your favorite beverages. This versatile set includes both clear and subtly tinted glasses, lending a modern touch to any table setting. Crafted with quality materials, these durable tumblers are designed to withstand daily use while maintaining their elegant appeal.",
+    "category": {
+      "id": 5,
+      "name": "Miscellaneous",
+      "slug": "miscellaneous",
+      "image": "https://i.imgur.com/BG8J0Fj.jpg",
+      "creationAt": "2025-07-23T16:24:36.000Z",
+      "updatedAt": "2025-07-23T16:24:36.000Z"
+    },
+    "images": [
+      "https://i.imgur.com/TF0pXdL.jpg",
+      "https://i.imgur.com/BLDByXP.jpg",
+      "https://i.imgur.com/b7trwCv.jpg"
+    ],
+    "creationAt": "2025-07-23T16:24:36.000Z",
+    "updatedAt": "2025-07-23T16:24:36.000Z"
+  },
+  {
+    "id": 52,
+    "title": "Co Co CoLa",
+    "slug": "co-co-cola",
+    "price": 3,
+    "description": "This is invalid syntax because you're trying to destructure the type instead of assigning the result to a variable.",
+    "category": {
+      "id": 10,
+      "name": "Automotive",
+      "slug": "automotive",
+      "image": "https://picsum.photos/400/400?random=1000",
+      "creationAt": "2025-07-23T16:33:14.000Z",
+      "updatedAt": "2025-07-23T16:33:14.000Z"
+    },
+    "images": [
+      "https://cdn.pixabay.com/photo/2025/07/12/10/04/reinebringen-9710168_1280.jpg"
+    ],
+    "creationAt": "2025-07-23T16:35:28.000Z",
+    "updatedAt": "2025-07-23T16:35:51.000Z"
+  },
+  {
+    "id": 54,
+    "title": "Programming Book",
+    "slug": "programming-book",
+    "price": 49,
+    "description": "Comprehensive programming guide for beginners.",
+    "category": {
+      "id": 8,
+      "name": "Books & Media",
+      "slug": "books-media",
+      "image": "https://picsum.photos/400/400?random=800",
+      "creationAt": "2025-07-23T16:33:12.000Z",
+      "updatedAt": "2025-07-23T16:33:12.000Z"
+    },
+    "images": [
+      "https://picsum.photos/400/400?random=7001",
+      "https://picsum.photos/400/400?random=7002",
+      "https://picsum.photos/400/400?random=7003",
+      "https://picsum.photos/400/400?random=7004",
+      "https://picsum.photos/400/400?random=7005"
+    ],
+    "creationAt": "2025-07-23T16:44:34.000Z",
+    "updatedAt": "2025-07-23T16:44:34.000Z"
+  },
+  {
+    "id": 55,
+    "title": "Cookbook",
+    "slug": "cookbook",
+    "price": 29,
+    "description": "Collection of delicious recipes from around the world.",
+    "category": {
+      "id": 8,
+      "name": "Books & Media",
+      "slug": "books-media",
+      "image": "https://picsum.photos/400/400?random=800",
+      "creationAt": "2025-07-23T16:33:12.000Z",
+      "updatedAt": "2025-07-23T16:33:12.000Z"
+    },
+    "images": [
+      "https://picsum.photos/400/400?random=7101",
+      "https://picsum.photos/400/400?random=7102",
+      "https://picsum.photos/400/400?random=7103",
+      "https://picsum.photos/400/400?random=7104",
+      "https://picsum.photos/400/400?random=7105"
+    ],
+    "creationAt": "2025-07-23T16:44:35.000Z",
+    "updatedAt": "2025-07-23T16:44:35.000Z"
+  },
+  {
+    "id": 56,
+    "title": "Mystery Novel",
+    "slug": "mystery-novel",
+    "price": 14,
+    "description": "Thrilling mystery novel with unexpected twists.",
+    "category": {
+      "id": 8,
+      "name": "Books & Media",
+      "slug": "books-media",
+      "image": "https://picsum.photos/400/400?random=800",
+      "creationAt": "2025-07-23T16:33:12.000Z",
+      "updatedAt": "2025-07-23T16:33:12.000Z"
+    },
+    "images": [
+      "https://picsum.photos/400/400?random=7201",
+      "https://picsum.photos/400/400?random=7202",
+      "https://picsum.photos/400/400?random=7203",
+      "https://picsum.photos/400/400?random=7204",
+      "https://picsum.photos/400/400?random=7205"
+    ],
+    "creationAt": "2025-07-23T16:44:35.000Z",
+    "updatedAt": "2025-07-23T16:44:35.000Z"
+  },
+  {
+    "id": 57,
+    "title": "Art History Book",
+    "slug": "art-history-book",
+    "price": 39,
+    "description": "Comprehensive guide to art history and movements.",
+    "category": {
+      "id": 8,
+      "name": "Books & Media",
+      "slug": "books-media",
+      "image": "https://picsum.photos/400/400?random=800",
+      "creationAt": "2025-07-23T16:33:12.000Z",
+      "updatedAt": "2025-07-23T16:33:12.000Z"
+    },
+    "images": [
+      "https://api.escuelajs.co/api/v1/files/ae46.jpg"
+    ],
+    "creationAt": "2025-07-23T16:44:36.000Z",
+    "updatedAt": "2025-07-24T07:36:42.000Z"
+  },
+  {
+    "id": 58,
+    "title": "Science Textbook",
+    "slug": "science-textbook",
+    "price": 89,
+    "description": "Advanced science textbook for students.",
+    "category": {
+      "id": 8,
+      "name": "Books & Media",
+      "slug": "books-media",
+      "image": "https://picsum.photos/400/400?random=800",
+      "creationAt": "2025-07-23T16:33:12.000Z",
+      "updatedAt": "2025-07-23T16:33:12.000Z"
+    },
+    "images": [
+      "https://picsum.photos/400/400?random=7401",
+      "https://picsum.photos/400/400?random=7402",
+      "https://picsum.photos/400/400?random=7403",
+      "https://picsum.photos/400/400?random=7404",
+      "https://picsum.photos/400/400?random=7405"
+    ],
+    "creationAt": "2025-07-23T16:44:37.000Z",
+    "updatedAt": "2025-07-23T16:44:37.000Z"
+  },
+  {
+    "id": 59,
+    "title": "Biography",
+    "slug": "biography",
+    "price": 24,
+    "description": "Inspiring biography of a historical figure.",
+    "category": {
+      "id": 8,
+      "name": "Books & Media",
+      "slug": "books-media",
+      "image": "https://picsum.photos/400/400?random=800",
+      "creationAt": "2025-07-23T16:33:12.000Z",
+      "updatedAt": "2025-07-23T16:33:12.000Z"
+    },
+    "images": [
+      "https://picsum.photos/400/400?random=7501",
+      "https://picsum.photos/400/400?random=7502",
+      "https://picsum.photos/400/400?random=7503",
+      "https://picsum.photos/400/400?random=7504",
+      "https://picsum.photos/400/400?random=7505"
+    ],
+    "creationAt": "2025-07-23T16:44:37.000Z",
+    "updatedAt": "2025-07-23T16:44:37.000Z"
+  },
+  {
+    "id": 60,
+    "title": "Travel Guide",
+    "slug": "travel-guide",
+    "price": 19,
+    "description": "Complete travel guide with maps and recommendations.",
+    "category": {
+      "id": 8,
+      "name": "Books & Media",
+      "slug": "books-media",
+      "image": "https://picsum.photos/400/400?random=800",
+      "creationAt": "2025-07-23T16:33:12.000Z",
+      "updatedAt": "2025-07-23T16:33:12.000Z"
+    },
+    "images": [
+      "https://picsum.photos/400/400?random=7601",
+      "https://picsum.photos/400/400?random=7602",
+      "https://picsum.photos/400/400?random=7603",
+      "https://picsum.photos/400/400?random=7604",
+      "https://picsum.photos/400/400?random=7605"
+    ],
+    "creationAt": "2025-07-23T16:44:38.000Z",
+    "updatedAt": "2025-07-23T16:44:38.000Z"
+  },
+  {
+    "id": 61,
+    "title": "Poetry Collection",
+    "slug": "poetry-collection",
+    "price": 16,
+    "description": "Beautiful collection of contemporary poetry.",
+    "category": {
+      "id": 8,
+      "name": "Books & Media",
+      "slug": "books-media",
+      "image": "https://picsum.photos/400/400?random=800",
+      "creationAt": "2025-07-23T16:33:12.000Z",
+      "updatedAt": "2025-07-23T16:33:12.000Z"
+    },
+    "images": [
+      "https://picsum.photos/400/400?random=7701",
+      "https://picsum.photos/400/400?random=7702",
+      "https://picsum.photos/400/400?random=7703",
+      "https://picsum.photos/400/400?random=7704",
+      "https://picsum.photos/400/400?random=7705"
+    ],
+    "creationAt": "2025-07-23T16:44:39.000Z",
+    "updatedAt": "2025-07-23T16:44:39.000Z"
+  },
+  {
+    "id": 62,
+    "title": "Self-Help Book",
+    "slug": "self-help-book",
+    "price": 22,
+    "description": "Practical guide to personal development.",
+    "category": {
+      "id": 8,
+      "name": "Books & Media",
+      "slug": "books-media",
+      "image": "https://picsum.photos/400/400?random=800",
+      "creationAt": "2025-07-23T16:33:12.000Z",
+      "updatedAt": "2025-07-23T16:33:12.000Z"
+    },
+    "images": [
+      "https://picsum.photos/400/400?random=7801",
+      "https://picsum.photos/400/400?random=7802",
+      "https://picsum.photos/400/400?random=7803",
+      "https://picsum.photos/400/400?random=7804",
+      "https://picsum.photos/400/400?random=7805"
+    ],
+    "creationAt": "2025-07-23T16:44:39.000Z",
+    "updatedAt": "2025-07-23T16:44:39.000Z"
+  },
+  {
+    "id": 63,
+    "title": "Children's Book",
+    "slug": "children-s-book",
+    "price": 12,
+    "description": "Colorful children's book with engaging stories.",
+    "category": {
+      "id": 8,
+      "name": "Books & Media",
+      "slug": "books-media",
+      "image": "https://picsum.photos/400/400?random=800",
+      "creationAt": "2025-07-23T16:33:12.000Z",
+      "updatedAt": "2025-07-23T16:33:12.000Z"
+    },
+    "images": [
+      "https://picsum.photos/400/400?random=7901",
+      "https://picsum.photos/400/400?random=7902",
+      "https://picsum.photos/400/400?random=7903",
+      "https://picsum.photos/400/400?random=7904",
+      "https://picsum.photos/400/400?random=7905"
+    ],
+    "creationAt": "2025-07-23T16:44:40.000Z",
+    "updatedAt": "2025-07-23T16:44:40.000Z"
+  },
+  {
+    "id": 65,
+    "title": "Premium Cotton T-Shirt",
+    "slug": "premium-cotton-t-shirt",
+    "price": 29,
+    "description": "High-quality cotton t-shirt with comfortable fit and modern design.",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "slug": "clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2025-07-23T16:24:36.000Z",
+      "updatedAt": "2025-07-23T16:24:36.000Z"
+    },
+    "images": [
+      "https://picsum.photos/400/400?random=1",
+      "https://picsum.photos/400/400?random=2",
+      "https://picsum.photos/400/400?random=3",
+      "https://picsum.photos/400/400?random=4",
+      "https://picsum.photos/400/400?random=5"
+    ],
+    "creationAt": "2025-07-23T16:55:13.000Z",
+    "updatedAt": "2025-07-23T16:55:13.000Z"
+  },
+  {
+    "id": 66,
+    "title": "Classic Denim Jeans",
+    "slug": "classic-denim-jeans",
+    "price": 79,
+    "description": "Comfortable denim jeans with classic cut and premium quality.",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "slug": "clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2025-07-23T16:24:36.000Z",
+      "updatedAt": "2025-07-23T16:24:36.000Z"
+    },
+    "images": [
+      "https://picsum.photos/400/400?random=101",
+      "https://picsum.photos/400/400?random=102",
+      "https://picsum.photos/400/400?random=103",
+      "https://picsum.photos/400/400?random=104",
+      "https://picsum.photos/400/400?random=105"
+    ],
+    "creationAt": "2025-07-23T16:55:13.000Z",
+    "updatedAt": "2025-07-23T16:55:13.000Z"
+  },
+  {
+    "id": 67,
+    "title": "Elegant Evening Dress",
+    "slug": "elegant-evening-dress",
+    "price": 149,
+    "description": "Beautiful evening dress perfect for special occasions.",
+    "category": {
+      "id": 1,
+      "name": "Clothes",
+      "slug": "clothes",
+      "image": "https://i.imgur.com/QkIa5tT.jpeg",
+      "creationAt": "2025-07-23T16:24:36.000Z",
+      "updatedAt": "2025-07-23T16:24:36.000Z"
+    },
+    "images": [
+      "https://picsum.photos/400/400?random=201",
+      "https://picsum.photos/400/400?random=202",
+      "https://picsum.photos/400/400?random=203",
+      "https://picsum.photos/400/400?random=204",
+      "https://picsum.photos/400/400?random=205"
+    ],
+    "creationAt": "2025-07-23T16:55:14.000Z",
+    "updatedAt": "2025-07-23T16:55:14.000Z"
+  }
+  ],
+  "category": [
+    "smartphones",
+    "laptops",
+    "fragrances",
+    "skincare",
+    "groceries",
+    "home-decoration",
+    "furniture",
+    "tops",
+    "womens-dresses",
+    "womens-shoes",
+    "mens-shirts",
+    "mens-shoes",
+    "mens-watches",
+    "womens-watches",
+    "womens-bags",
+    "womens-jewellery",
+    "sunglasses",
+    "automotive",
+    "motorcycle",
+    "lighting"
+  ]
+}
