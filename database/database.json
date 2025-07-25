@@ -1,25 +1,6 @@
 {
   "products": [
-     {
-    "id": 37,
-    "title": "Jacket ",
-    "slug": "jacket",
-    "price": 10,
-    "description": "Jacket from US",
-    "category": {
-      "id": 4,
-      "name": "Shoes",
-      "slug": "shoes",
-      "image": "https://i.imgur.com/qNOjJje.jpeg",
-      "creationAt": "2025-07-23T16:24:36.000Z",
-      "updatedAt": "2025-07-23T16:24:36.000Z"
-    },
-    "images": [
-      "https://api.escuelajs.co/api/v1/files/5f83.jpg"
-    ],
-    "creationAt": "2025-07-23T16:24:36.000Z",
-    "updatedAt": "2025-07-24T07:35:54.000Z"
-  },
+    
   {
     "id": 38,
     "title": "Vibrant Runners: Bold Orange & Blue Sneakers",

@@ -10,7 +10,7 @@ function Header() {
       <div className="container">
         <div className="header-content">
           <Link to="/" className="header-logo">
-            ShopVN
+            Adamo
           </Link>
           
           <nav className="header-nav">
@@ -18,7 +18,6 @@ function Header() {
               to="/" 
               className={({ isActive }) => `nav-link ${isActive ? 'active' : ''}`}
             >
-              <span>🏠</span>
               Trang chủ
             </NavLink>
             
@@ -26,7 +25,6 @@ function Header() {
               to="/products" 
               className={({ isActive }) => `nav-link ${isActive ? 'active' : ''}`}
             >
-              <span>📦</span>
               Sản phẩm
             </NavLink>
             
@@ -34,7 +32,6 @@ function Header() {
               to="/about" 
               className={({ isActive }) => `nav-link ${isActive ? 'active' : ''}`}
             >
-              <span>ℹ️</span>
               Giới thiệu
             </NavLink>
             
@@ -42,13 +39,11 @@ function Header() {
               to="/contact" 
               className={({ isActive }) => `nav-link ${isActive ? 'active' : ''}`}
             >
-              <span>📞</span>
               Liên hệ
             </NavLink>
             
             <Link to="/cart" className="cart-icon">
               <span>🛒</span>
-              Giỏ hàng
               {cartItemCount > 0 && (
                 <span className="cart-count">{cartItemCount}</span>
               )}

@@ -75,6 +75,7 @@
 /* Base Styles */
 html {
   scroll-behavior: smooth;
+  font-family: 'Robo';
 }
 
 body {
@@ -120,11 +121,6 @@ body {
   display: flex;
   align-items: center;
   gap: var(--spacing-2);
-}
-
-.header-logo::before {
-  content: "🛍️";
-  font-size: var(--font-size-3xl);
 }
 
 .header-nav {
@@ -383,7 +379,7 @@ body {
 
 .cart-header {
   text-align: center;
-  margin-bottom: var(--spacing-12);
+  margin-bottom: 20px;
 }
 
 .cart-title {
@@ -473,7 +469,7 @@ body {
 /* Cart Summary */
 .cart-summary {
   background: white;
-  padding: var(--spacing-8);
+  padding: 10px 40px;
   border-radius: var(--radius-2xl);
   box-shadow: var(--shadow-lg);
   max-width: 400px;
@@ -514,12 +510,11 @@ body {
 /* Empty Cart */
 .empty-cart {
   text-align: center;
-  padding: var(--spacing-20) var(--spacing-4);
+  padding-bottom: 30px;
 }
 
 .empty-cart-icon {
   font-size: 4rem;
-  margin-bottom: var(--spacing-6);
   opacity: 0.5;
 }
 
@@ -570,7 +565,7 @@ body {
 
 /* Featured Products Section */
 .featured-products {
-  padding: var(--spacing-20) 0;
+  padding-top: 40px;
   background: var(--gray-50);
 }
 
@@ -702,4 +697,9 @@ body {
   .hero-section {
     padding: var(--spacing-16) 0;
   }
+}
+
+input, select {
+  background: #fff;
+  color: #000;
 }

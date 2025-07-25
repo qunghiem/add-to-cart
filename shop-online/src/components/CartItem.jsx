@@ -86,7 +86,7 @@ function CartItem({ item }) {
       <td style={{ padding: 'var(--spacing-6)' }}>
         <div style={{ 
           fontSize: 'var(--font-size-lg)',
-          fontWeight: '700',
+          fontWeight: '500',
           color: 'var(--primary-color)'
         }}>
           ${item.price?.toFixed(2) || '0.00'}
@@ -100,12 +100,12 @@ function CartItem({ item }) {
             onClick={handleDecrease}
             title={item.quantity === 1 ? "Xóa sản phẩm" : "Giảm số lượng"}
           >
-            {item.quantity === 1 ? '🗑️' : '➖'}
+            {item.quantity === 1 ? '🗑️' : '-'}
           </button>
           <span style={{ 
             minWidth: '2rem',
             textAlign: 'center',
-            fontWeight: '600',
+            fontWeight: '500',
             fontSize: 'var(--font-size-lg)'
           }}>
             {item.quantity}
@@ -115,7 +115,7 @@ function CartItem({ item }) {
             onClick={handleIncrease}
             title="Tăng số lượng"
           >
-            ➕
+            +
           </button>
         </div>
       </td>
@@ -123,7 +123,7 @@ function CartItem({ item }) {
       <td style={{ padding: 'var(--spacing-6)' }}>
         <div style={{ 
           fontSize: 'var(--font-size-xl)',
-          fontWeight: '800',
+          fontWeight: '500',
           color: 'var(--gray-900)'
         }}>
           ${((item.price || 0) * item.quantity).toFixed(2)}
@@ -141,7 +141,7 @@ function CartItem({ item }) {
             gap: '0.25rem'
           }}
         >
-          <span>🗑️</span>
+          {/* <span>🗑️</span> */}
           Xóa
         </button>
       </td>

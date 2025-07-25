@@ -14,10 +14,8 @@ function Cart() {
         <div className="empty-cart">
           <div className="empty-cart-icon">🛒</div>
           <h2>Giỏ hàng của bạn đang trống</h2>
-          <p>Hãy khám phá các sản phẩm tuyệt vời của chúng tôi và thêm vào giỏ hàng!</p>
           <Link to="/products" className="hero-button">
-            <span>🛍️</span>
-            Tiếp tục mua sắm
+            Tiếp tục mua sắm 
           </Link>
         </div>
       </div>
@@ -62,7 +60,6 @@ function Cart() {
             </tbody>
           </table>
 
-          {/* Continue Shopping */}
           <div style={{ marginTop: '2rem' }}>
             <Link 
               to="/products" 
@@ -93,12 +90,10 @@ function Cart() {
           </div>
         </div>
 
-        {/* Cart Summary */}
         <div className="cart-summary">
           <h3 style={{ 
             fontSize: 'var(--font-size-xl)', 
             fontWeight: '700',
-            marginBottom: '1.5rem',
             color: 'var(--gray-900)'
           }}>
             Tóm tắt đơn hàng
@@ -149,88 +144,24 @@ function Cart() {
             </div>
           </div>
 
-          {/* Promo Code */}
-          <div style={{ marginBottom: '1.5rem' }}>
+          <div>
             <div style={{ 
               display: 'flex', 
               gap: '0.5rem',
               marginBottom: '0.75rem'
             }}>
-              <input 
-                type="text" 
-                placeholder="Mã giảm giá"
-                style={{
-                  flex: '1',
-                  padding: '0.75rem',
-                  border: '2px solid var(--gray-200)',
-                  borderRadius: 'var(--radius-lg)',
-                  fontSize: 'var(--font-size-base)'
-                }}
-              />
-              <button style={{
-                padding: '0.75rem 1rem',
-                background: 'var(--gray-200)',
-                border: 'none',
-                borderRadius: 'var(--radius-lg)',
-                cursor: 'pointer',
-                fontWeight: '600'
-              }}>
-                Áp dụng
-              </button>
+              
             </div>
           </div>
 
-          {/* Checkout Button */}
           <button className="checkout-btn">
             <span>💳</span>
             Thanh toán ngay
           </button>
 
-          {/* Payment Methods */}
-          <div style={{ 
-            marginTop: '1.5rem',
-            textAlign: 'center'
-          }}>
-            <p style={{ 
-              fontSize: 'var(--font-size-sm)',
-              color: 'var(--gray-500)',
-              marginBottom: '0.75rem'
-            }}>
-              Phương thức thanh toán được chấp nhận:
-            </p>
-            <div style={{ 
-              display: 'flex', 
-              justifyContent: 'center',
-              gap: '0.5rem',
-              fontSize: '1.5rem'
-            }}>
-              <span>💳</span>
-              <span>🏦</span>
-              <span>📱</span>
-              <span>💰</span>
-            </div>
-          </div>
+          
 
-          {/* Security Info */}
-          <div style={{
-            marginTop: '1.5rem',
-            padding: '1rem',
-            background: 'var(--gray-50)',
-            borderRadius: 'var(--radius-lg)',
-            textAlign: 'center'
-          }}>
-            <p style={{ 
-              fontSize: 'var(--font-size-sm)',
-              color: 'var(--gray-600)',
-              display: 'flex',
-              alignItems: 'center',
-              justifyContent: 'center',
-              gap: '0.5rem'
-            }}>
-              <span>🔒</span>
-              Thanh toán an toàn & bảo mật
-            </p>
-          </div>
+         
         </div>
       </div>
 

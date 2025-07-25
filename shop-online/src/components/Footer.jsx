@@ -6,33 +6,11 @@ function Footer() {
       <div className="container">
         <div className="footer-content">
           <div className="footer-section">
-            <h3>🛍️ ShopVN</h3>
+            <h3>Adamo</h3>
             <p style={{ color: 'var(--gray-300)', marginBottom: '1.5rem' }}>
-              Cửa hàng trực tuyến hàng đầu Việt Nam, mang đến trải nghiệm mua sắm 
-              tuyệt vời với hàng ngàn sản phẩm chất lượng.
+              Nội dung Mô tả...
             </p>
-            <div style={{ display: 'flex', gap: '1rem' }}>
-              <a href="#" style={{ 
-                color: 'white', 
-                fontSize: '1.5rem',
-                transition: 'transform 0.3s ease'
-              }}>📘</a>
-              <a href="#" style={{ 
-                color: 'white', 
-                fontSize: '1.5rem',
-                transition: 'transform 0.3s ease'
-              }}>📷</a>
-              <a href="#" style={{ 
-                color: 'white', 
-                fontSize: '1.5rem',
-                transition: 'transform 0.3s ease'
-              }}>🐦</a>
-              <a href="#" style={{ 
-                color: 'white', 
-                fontSize: '1.5rem',
-                transition: 'transform 0.3s ease'
-              }}>💼</a>
-            </div>
+            
           </div>
 
           <div className="footer-section">
@@ -58,17 +36,6 @@ function Footer() {
           </div>
 
           <div className="footer-section">
-            <h3>Hỗ trợ khách hàng</h3>
-            <ul>
-              <li><a href="#">Chính sách bảo hành</a></li>
-              <li><a href="#">Chính sách đổi trả</a></li>
-              <li><a href="#">Hướng dẫn mua hàng</a></li>
-              <li><a href="#">Câu hỏi thường gặp</a></li>
-              <li><a href="#">Liên hệ hỗ trợ</a></li>
-            </ul>
-          </div>
-
-          <div className="footer-section">
             <h3>Thông tin liên hệ</h3>
             <div style={{ color: 'var(--gray-300)' }}>
               <p style={{ marginBottom: '0.75rem', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
@@ -83,8 +50,8 @@ function Footer() {
               </p>
               <p style={{ marginBottom: '0.75rem', display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
                 <span>✉️</span>
-                <a href="mailto:info@shopvn.com" style={{ color: 'var(--gray-300)' }}>
-                  info@shopvn.com
+                <a href="mailto:info@adamo.com" style={{ color: 'var(--gray-300)' }}>
+                 adamo.vn.com
                 </a>
               </p>
               <p style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
@@ -93,13 +60,6 @@ function Footer() {
               </p>
             </div>
           </div>
-        </div>
-
-        <div className="footer-bottom">
-          <p>&copy; 2024 ShopVN. Tất cả quyền được bảo lưu.</p>
-          <p style={{ marginTop: '0.5rem', fontSize: '0.875rem' }}>
-            Được thiết kế với ❤️ tại Việt Nam
-          </p>
         </div>
       </div>
     </footer>

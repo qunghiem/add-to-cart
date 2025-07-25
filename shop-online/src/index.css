@@ -13,6 +13,10 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+* {
+   font-family: "Roboto", sans-serif;
+}
+
 a {
   font-weight: 500;
   color: #646cff;
@@ -80,14 +84,12 @@ body {
 .container {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 20px;
 }
 
 .header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 20px 0;
   border-bottom: 1px solid #eee;
 }
 
@@ -212,7 +214,7 @@ body {
 }
 
 .quantity-btn {
-  background-color: #eee;
+  color: #000;
   border: none;
   width: 25px;
   height: 25px;
@@ -234,7 +236,12 @@ body {
 
 .cart-summary {
   margin-top: 20px;
+  padding-bottom: 20px;
   text-align: right;
+}
+
+.cart-summary h3 {
+  text-align: center;
 }
 
 .cart-total {
@@ -255,7 +262,6 @@ body {
 
 .empty-cart {
   text-align: center;
-  margin-top: 50px;
   color: #666;
 }
 
@@ -288,10 +294,6 @@ body {
   font-size: 16px;
   text-decoration: none;
   display: inline-block;
-}
-
-.featured-products {
-  margin-top: 40px;
 }
 
 .section-title {
